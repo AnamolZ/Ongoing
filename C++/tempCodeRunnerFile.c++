@@ -1,0 +1,1 @@
+    // cout<<line2[30]<<"\t"<<left<<line2[30]<<"\t"<<left<<line2[30]<<endl;
